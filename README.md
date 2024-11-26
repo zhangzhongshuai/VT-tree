@@ -1,14 +1,14 @@
 # VT-tree
 
-## How to Compile
+## How to Compile ⚙️
 
 Run the `make` command in each directory to generate the executable file.
 
-## How to Run
+## How to Run 🚀
 
 Execute the `test.sh` script in each directory.
 
-## How to Change the Dataset
+## How to Change the Dataset 🔄
 
 Modify the file path for `jsonHelper` in `main.cpp`.
 

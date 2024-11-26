@@ -1,0 +1,911 @@
+param1 = 0.5 param2 = 1 param3 = 3 param4 = 1000 time = 13.3785
+Processed with params: 0.5 1 3 1000
+param1 = 0.5 param2 = 1 param3 = 4 param4 = 1000 time = 14.08
+Processed with params: 0.5 1 4 1000
+param1 = 0.5 param2 = 1 param3 = 5 param4 = 1000 time = 12.8124
+Processed with params: 0.5 1 5 1000
+param1 = 0.5 param2 = 1 param3 = 6 param4 = 1000 time = 13.2775
+Processed with params: 0.5 1 6 1000
+param1 = 0.5 param2 = 1 param3 = 7 param4 = 1000 time = 12.9682
+Processed with params: 0.5 1 7 1000
+param1 = 0.5 param2 = 1 param3 = 8 param4 = 1000 time = 13.2055
+Processed with params: 0.5 1 8 1000
+param1 = 0.5 param2 = 1 param3 = 9 param4 = 1000 time = 12.988
+Processed with params: 0.5 1 9 1000
+param1 = 0.5 param2 = 1 param3 = 10 param4 = 1000 time = 13.3408
+Processed with params: 0.5 1 10 1000
+param1 = 0.5 param2 = 1 param3 = 11 param4 = 1000 time = 13.8285
+Processed with params: 0.5 1 11 1000
+param1 = 0.5 param2 = 1 param3 = 12 param4 = 1000 time = 13.4401
+Processed with params: 0.5 1 12 1000
+param1 = 0.5 param2 = 1 param3 = 13 param4 = 1000 time = 13.0981
+Processed with params: 0.5 1 13 1000
+param1 = 0.5 param2 = 1 param3 = 14 param4 = 1000 time = 12.987
+Processed with params: 0.5 1 14 1000
+param1 = 0.5 param2 = 1 param3 = 15 param4 = 1000 time = 13.0882
+Processed with params: 0.5 1 15 1000
+param1 = 0.5 param2 = 2 param3 = 3 param4 = 1000 time = 4.95344
+Processed with params: 0.5 2 3 1000
+param1 = 0.5 param2 = 2 param3 = 4 param4 = 1000 time = 4.97113
+Processed with params: 0.5 2 4 1000
+param1 = 0.5 param2 = 2 param3 = 5 param4 = 1000 time = 4.69184
+Processed with params: 0.5 2 5 1000
+param1 = 0.5 param2 = 2 param3 = 6 param4 = 1000 time = 5.62478
+Processed with params: 0.5 2 6 1000
+param1 = 0.5 param2 = 2 param3 = 7 param4 = 1000 time = 4.81643
+Processed with params: 0.5 2 7 1000
+param1 = 0.5 param2 = 2 param3 = 8 param4 = 1000 time = 4.67463
+Processed with params: 0.5 2 8 1000
+param1 = 0.5 param2 = 2 param3 = 9 param4 = 1000 time = 4.68529
+Processed with params: 0.5 2 9 1000
+param1 = 0.5 param2 = 2 param3 = 10 param4 = 1000 time = 4.68841
+Processed with params: 0.5 2 10 1000
+param1 = 0.5 param2 = 2 param3 = 11 param4 = 1000 time = 4.55785
+Processed with params: 0.5 2 11 1000
+param1 = 0.5 param2 = 2 param3 = 12 param4 = 1000 time = 4.6623
+Processed with params: 0.5 2 12 1000
+param1 = 0.5 param2 = 2 param3 = 13 param4 = 1000 time = 4.50174
+Processed with params: 0.5 2 13 1000
+param1 = 0.5 param2 = 2 param3 = 14 param4 = 1000 time = 4.43934
+Processed with params: 0.5 2 14 1000
+param1 = 0.5 param2 = 2 param3 = 15 param4 = 1000 time = 4.51372
+Processed with params: 0.5 2 15 1000
+param1 = 0.5 param2 = 3 param3 = 3 param4 = 1000 time = 2.47973
+Processed with params: 0.5 3 3 1000
+param1 = 0.5 param2 = 3 param3 = 4 param4 = 1000 time = 2.55084
+Processed with params: 0.5 3 4 1000
+param1 = 0.5 param2 = 3 param3 = 5 param4 = 1000 time = 2.52819
+Processed with params: 0.5 3 5 1000
+param1 = 0.5 param2 = 3 param3 = 6 param4 = 1000 time = 2.39922
+Processed with params: 0.5 3 6 1000
+param1 = 0.5 param2 = 3 param3 = 7 param4 = 1000 time = 2.47761
+Processed with params: 0.5 3 7 1000
+param1 = 0.5 param2 = 3 param3 = 8 param4 = 1000 time = 2.45059
+Processed with params: 0.5 3 8 1000
+param1 = 0.5 param2 = 3 param3 = 9 param4 = 1000 time = 2.32137
+Processed with params: 0.5 3 9 1000
+param1 = 0.5 param2 = 3 param3 = 10 param4 = 1000 time = 2.32474
+Processed with params: 0.5 3 10 1000
+param1 = 0.5 param2 = 3 param3 = 11 param4 = 1000 time = 2.3101
+Processed with params: 0.5 3 11 1000
+param1 = 0.5 param2 = 3 param3 = 12 param4 = 1000 time = 2.27939
+Processed with params: 0.5 3 12 1000
+param1 = 0.5 param2 = 3 param3 = 13 param4 = 1000 time = 2.35516
+Processed with params: 0.5 3 13 1000
+param1 = 0.5 param2 = 3 param3 = 14 param4 = 1000 time = 2.26059
+Processed with params: 0.5 3 14 1000
+param1 = 0.5 param2 = 3 param3 = 15 param4 = 1000 time = 2.28809
+Processed with params: 0.5 3 15 1000
+param1 = 0.5 param2 = 4 param3 = 3 param4 = 1000 time = 1.91262
+Processed with params: 0.5 4 3 1000
+param1 = 0.5 param2 = 4 param3 = 4 param4 = 1000 time = 1.80572
+Processed with params: 0.5 4 4 1000
+param1 = 0.5 param2 = 4 param3 = 5 param4 = 1000 time = 1.77539
+Processed with params: 0.5 4 5 1000
+param1 = 0.5 param2 = 4 param3 = 6 param4 = 1000 time = 1.76999
+Processed with params: 0.5 4 6 1000
+param1 = 0.5 param2 = 4 param3 = 7 param4 = 1000 time = 1.76848
+Processed with params: 0.5 4 7 1000
+param1 = 0.5 param2 = 4 param3 = 8 param4 = 1000 time = 1.75086
+Processed with params: 0.5 4 8 1000
+param1 = 0.5 param2 = 4 param3 = 9 param4 = 1000 time = 1.78687
+Processed with params: 0.5 4 9 1000
+param1 = 0.5 param2 = 4 param3 = 10 param4 = 1000 time = 1.71203
+Processed with params: 0.5 4 10 1000
+param1 = 0.5 param2 = 4 param3 = 11 param4 = 1000 time = 1.69818
+Processed with params: 0.5 4 11 1000
+param1 = 0.5 param2 = 4 param3 = 12 param4 = 1000 time = 1.61478
+Processed with params: 0.5 4 12 1000
+param1 = 0.5 param2 = 4 param3 = 13 param4 = 1000 time = 1.66035
+Processed with params: 0.5 4 13 1000
+param1 = 0.5 param2 = 4 param3 = 14 param4 = 1000 time = 1.62571
+Processed with params: 0.5 4 14 1000
+param1 = 0.5 param2 = 4 param3 = 15 param4 = 1000 time = 1.61322
+Processed with params: 0.5 4 15 1000
+param1 = 0.5 param2 = 5 param3 = 3 param4 = 1000 time = 1.8646
+Processed with params: 0.5 5 3 1000
+param1 = 0.5 param2 = 5 param3 = 4 param4 = 1000 time = 1.86498
+Processed with params: 0.5 5 4 1000
+param1 = 0.5 param2 = 5 param3 = 5 param4 = 1000 time = 2.42131
+Processed with params: 0.5 5 5 1000
+param1 = 0.5 param2 = 5 param3 = 6 param4 = 1000 time = 1.82267
+Processed with params: 0.5 5 6 1000
+param1 = 0.5 param2 = 5 param3 = 7 param4 = 1000 time = 1.78353
+Processed with params: 0.5 5 7 1000
+param1 = 0.5 param2 = 5 param3 = 8 param4 = 1000 time = 1.74493
+Processed with params: 0.5 5 8 1000
+param1 = 0.5 param2 = 5 param3 = 9 param4 = 1000 time = 1.74899
+Processed with params: 0.5 5 9 1000
+param1 = 0.5 param2 = 5 param3 = 10 param4 = 1000 time = 1.72666
+Processed with params: 0.5 5 10 1000
+param1 = 0.5 param2 = 5 param3 = 11 param4 = 1000 time = 1.73344
+Processed with params: 0.5 5 11 1000
+param1 = 0.5 param2 = 5 param3 = 12 param4 = 1000 time = 1.77021
+Processed with params: 0.5 5 12 1000
+param1 = 0.5 param2 = 5 param3 = 13 param4 = 1000 time = 1.73621
+Processed with params: 0.5 5 13 1000
+param1 = 0.5 param2 = 5 param3 = 14 param4 = 1000 time = 1.69796
+Processed with params: 0.5 5 14 1000
+param1 = 0.5 param2 = 5 param3 = 15 param4 = 1000 time = 1.69425
+Processed with params: 0.5 5 15 1000
+param1 = 0.5 param2 = 6 param3 = 3 param4 = 1000 time = 2.07185
+Processed with params: 0.5 6 3 1000
+param1 = 0.5 param2 = 6 param3 = 4 param4 = 1000 time = 2.05924
+Processed with params: 0.5 6 4 1000
+param1 = 0.5 param2 = 6 param3 = 5 param4 = 1000 time = 2.03816
+Processed with params: 0.5 6 5 1000
+param1 = 0.5 param2 = 6 param3 = 6 param4 = 1000 time = 1.93875
+Processed with params: 0.5 6 6 1000
+param1 = 0.5 param2 = 6 param3 = 7 param4 = 1000 time = 1.93103
+Processed with params: 0.5 6 7 1000
+param1 = 0.5 param2 = 6 param3 = 8 param4 = 1000 time = 1.95098
+Processed with params: 0.5 6 8 1000
+param1 = 0.5 param2 = 6 param3 = 9 param4 = 1000 time = 1.91465
+Processed with params: 0.5 6 9 1000
+param1 = 0.5 param2 = 6 param3 = 10 param4 = 1000 time = 1.93666
+Processed with params: 0.5 6 10 1000
+param1 = 0.5 param2 = 6 param3 = 11 param4 = 1000 time = 1.87689
+Processed with params: 0.5 6 11 1000
+param1 = 0.5 param2 = 6 param3 = 12 param4 = 1000 time = 1.92276
+Processed with params: 0.5 6 12 1000
+param1 = 0.5 param2 = 6 param3 = 13 param4 = 1000 time = 2.12314
+Processed with params: 0.5 6 13 1000
+param1 = 0.5 param2 = 6 param3 = 14 param4 = 1000 time = 1.91852
+Processed with params: 0.5 6 14 1000
+param1 = 0.5 param2 = 6 param3 = 15 param4 = 1000 time = 1.93488
+Processed with params: 0.5 6 15 1000
+param1 = 0.5 param2 = 7 param3 = 3 param4 = 1000 time = 2.48295
+Processed with params: 0.5 7 3 1000
+param1 = 0.5 param2 = 7 param3 = 4 param4 = 1000 time = 2.54908
+Processed with params: 0.5 7 4 1000
+param1 = 0.5 param2 = 7 param3 = 5 param4 = 1000 time = 3.21767
+Processed with params: 0.5 7 5 1000
+param1 = 0.5 param2 = 7 param3 = 6 param4 = 1000 time = 2.91772
+Processed with params: 0.5 7 6 1000
+param1 = 0.5 param2 = 7 param3 = 7 param4 = 1000 time = 3.19807
+Processed with params: 0.5 7 7 1000
+param1 = 0.5 param2 = 7 param3 = 8 param4 = 1000 time = 2.33669
+Processed with params: 0.5 7 8 1000
+param1 = 0.5 param2 = 7 param3 = 9 param4 = 1000 time = 3.11833
+Processed with params: 0.5 7 9 1000
+param1 = 0.5 param2 = 7 param3 = 10 param4 = 1000 time = 3.07853
+Processed with params: 0.5 7 10 1000
+param1 = 0.5 param2 = 7 param3 = 11 param4 = 1000 time = 3.08213
+Processed with params: 0.5 7 11 1000
+param1 = 0.5 param2 = 7 param3 = 12 param4 = 1000 time = 3.12616
+Processed with params: 0.5 7 12 1000
+param1 = 0.5 param2 = 7 param3 = 13 param4 = 1000 time = 3.31014
+Processed with params: 0.5 7 13 1000
+param1 = 0.5 param2 = 7 param3 = 14 param4 = 1000 time = 3.14546
+Processed with params: 0.5 7 14 1000
+param1 = 0.5 param2 = 7 param3 = 15 param4 = 1000 time = 3.09779
+Processed with params: 0.5 7 15 1000
+param1 = 0.6 param2 = 1 param3 = 3 param4 = 1000 time = 13.1622
+Processed with params: 0.6 1 3 1000
+param1 = 0.6 param2 = 1 param3 = 4 param4 = 1000 time = 12.9847
+Processed with params: 0.6 1 4 1000
+param1 = 0.6 param2 = 1 param3 = 5 param4 = 1000 time = 12.778
+Processed with params: 0.6 1 5 1000
+param1 = 0.6 param2 = 1 param3 = 6 param4 = 1000 time = 12.9177
+Processed with params: 0.6 1 6 1000
+param1 = 0.6 param2 = 1 param3 = 7 param4 = 1000 time = 12.6789
+Processed with params: 0.6 1 7 1000
+param1 = 0.6 param2 = 1 param3 = 8 param4 = 1000 time = 13.1163
+Processed with params: 0.6 1 8 1000
+param1 = 0.6 param2 = 1 param3 = 9 param4 = 1000 time = 12.8868
+Processed with params: 0.6 1 9 1000
+param1 = 0.6 param2 = 1 param3 = 10 param4 = 1000 time = 13.0889
+Processed with params: 0.6 1 10 1000
+param1 = 0.6 param2 = 1 param3 = 11 param4 = 1000 time = 13.1967
+Processed with params: 0.6 1 11 1000
+param1 = 0.6 param2 = 1 param3 = 12 param4 = 1000 time = 13.8043
+Processed with params: 0.6 1 12 1000
+param1 = 0.6 param2 = 1 param3 = 13 param4 = 1000 time = 13.3011
+Processed with params: 0.6 1 13 1000
+param1 = 0.6 param2 = 1 param3 = 14 param4 = 1000 time = 12.6566
+Processed with params: 0.6 1 14 1000
+param1 = 0.6 param2 = 1 param3 = 15 param4 = 1000 time = 12.7684
+Processed with params: 0.6 1 15 1000
+param1 = 0.6 param2 = 2 param3 = 3 param4 = 1000 time = 4.69099
+Processed with params: 0.6 2 3 1000
+param1 = 0.6 param2 = 2 param3 = 4 param4 = 1000 time = 4.83938
+Processed with params: 0.6 2 4 1000
+param1 = 0.6 param2 = 2 param3 = 5 param4 = 1000 time = 4.56222
+Processed with params: 0.6 2 5 1000
+param1 = 0.6 param2 = 2 param3 = 6 param4 = 1000 time = 4.69681
+Processed with params: 0.6 2 6 1000
+param1 = 0.6 param2 = 2 param3 = 7 param4 = 1000 time = 4.64956
+Processed with params: 0.6 2 7 1000
+param1 = 0.6 param2 = 2 param3 = 8 param4 = 1000 time = 4.83375
+Processed with params: 0.6 2 8 1000
+param1 = 0.6 param2 = 2 param3 = 9 param4 = 1000 time = 4.75762
+Processed with params: 0.6 2 9 1000
+param1 = 0.6 param2 = 2 param3 = 10 param4 = 1000 time = 4.57053
+Processed with params: 0.6 2 10 1000
+param1 = 0.6 param2 = 2 param3 = 11 param4 = 1000 time = 4.73208
+Processed with params: 0.6 2 11 1000
+param1 = 0.6 param2 = 2 param3 = 12 param4 = 1000 time = 4.54874
+Processed with params: 0.6 2 12 1000
+param1 = 0.6 param2 = 2 param3 = 13 param4 = 1000 time = 4.49455
+Processed with params: 0.6 2 13 1000
+param1 = 0.6 param2 = 2 param3 = 14 param4 = 1000 time = 4.46992
+Processed with params: 0.6 2 14 1000
+param1 = 0.6 param2 = 2 param3 = 15 param4 = 1000 time = 4.51218
+Processed with params: 0.6 2 15 1000
+param1 = 0.6 param2 = 3 param3 = 3 param4 = 1000 time = 2.56577
+Processed with params: 0.6 3 3 1000
+param1 = 0.6 param2 = 3 param3 = 4 param4 = 1000 time = 2.45254
+Processed with params: 0.6 3 4 1000
+param1 = 0.6 param2 = 3 param3 = 5 param4 = 1000 time = 2.46086
+Processed with params: 0.6 3 5 1000
+param1 = 0.6 param2 = 3 param3 = 6 param4 = 1000 time = 2.39751
+Processed with params: 0.6 3 6 1000
+param1 = 0.6 param2 = 3 param3 = 7 param4 = 1000 time = 2.36861
+Processed with params: 0.6 3 7 1000
+param1 = 0.6 param2 = 3 param3 = 8 param4 = 1000 time = 2.40029
+Processed with params: 0.6 3 8 1000
+param1 = 0.6 param2 = 3 param3 = 9 param4 = 1000 time = 2.43272
+Processed with params: 0.6 3 9 1000
+param1 = 0.6 param2 = 3 param3 = 10 param4 = 1000 time = 2.44129
+Processed with params: 0.6 3 10 1000
+param1 = 0.6 param2 = 3 param3 = 11 param4 = 1000 time = 2.39222
+Processed with params: 0.6 3 11 1000
+param1 = 0.6 param2 = 3 param3 = 12 param4 = 1000 time = 2.36513
+Processed with params: 0.6 3 12 1000
+param1 = 0.6 param2 = 3 param3 = 13 param4 = 1000 time = 2.37135
+Processed with params: 0.6 3 13 1000
+param1 = 0.6 param2 = 3 param3 = 14 param4 = 1000 time = 2.27973
+Processed with params: 0.6 3 14 1000
+param1 = 0.6 param2 = 3 param3 = 15 param4 = 1000 time = 2.28175
+Processed with params: 0.6 3 15 1000
+param1 = 0.6 param2 = 4 param3 = 3 param4 = 1000 time = 1.80806
+Processed with params: 0.6 4 3 1000
+param1 = 0.6 param2 = 4 param3 = 4 param4 = 1000 time = 1.82575
+Processed with params: 0.6 4 4 1000
+param1 = 0.6 param2 = 4 param3 = 5 param4 = 1000 time = 1.74063
+Processed with params: 0.6 4 5 1000
+param1 = 0.6 param2 = 4 param3 = 6 param4 = 1000 time = 1.75113
+Processed with params: 0.6 4 6 1000
+param1 = 0.6 param2 = 4 param3 = 7 param4 = 1000 time = 1.71811
+Processed with params: 0.6 4 7 1000
+param1 = 0.6 param2 = 4 param3 = 8 param4 = 1000 time = 1.79639
+Processed with params: 0.6 4 8 1000
+param1 = 0.6 param2 = 4 param3 = 9 param4 = 1000 time = 1.71257
+Processed with params: 0.6 4 9 1000
+param1 = 0.6 param2 = 4 param3 = 10 param4 = 1000 time = 1.76657
+Processed with params: 0.6 4 10 1000
+param1 = 0.6 param2 = 4 param3 = 11 param4 = 1000 time = 1.66685
+Processed with params: 0.6 4 11 1000
+param1 = 0.6 param2 = 4 param3 = 12 param4 = 1000 time = 1.74264
+Processed with params: 0.6 4 12 1000
+param1 = 0.6 param2 = 4 param3 = 13 param4 = 1000 time = 1.6526
+Processed with params: 0.6 4 13 1000
+param1 = 0.6 param2 = 4 param3 = 14 param4 = 1000 time = 1.70098
+Processed with params: 0.6 4 14 1000
+param1 = 0.6 param2 = 4 param3 = 15 param4 = 1000 time = 1.68716
+Processed with params: 0.6 4 15 1000
+param1 = 0.6 param2 = 5 param3 = 3 param4 = 1000 time = 2.07803
+Processed with params: 0.6 5 3 1000
+param1 = 0.6 param2 = 5 param3 = 4 param4 = 1000 time = 1.99271
+Processed with params: 0.6 5 4 1000
+param1 = 0.6 param2 = 5 param3 = 5 param4 = 1000 time = 1.99738
+Processed with params: 0.6 5 5 1000
+param1 = 0.6 param2 = 5 param3 = 6 param4 = 1000 time = 1.99364
+Processed with params: 0.6 5 6 1000
+param1 = 0.6 param2 = 5 param3 = 7 param4 = 1000 time = 1.95983
+Processed with params: 0.6 5 7 1000
+param1 = 0.6 param2 = 5 param3 = 8 param4 = 1000 time = 1.95926
+Processed with params: 0.6 5 8 1000
+param1 = 0.6 param2 = 5 param3 = 9 param4 = 1000 time = 1.90216
+Processed with params: 0.6 5 9 1000
+param1 = 0.6 param2 = 5 param3 = 10 param4 = 1000 time = 1.84892
+Processed with params: 0.6 5 10 1000
+param1 = 0.6 param2 = 5 param3 = 11 param4 = 1000 time = 1.81254
+Processed with params: 0.6 5 11 1000
+param1 = 0.6 param2 = 5 param3 = 12 param4 = 1000 time = 1.82922
+Processed with params: 0.6 5 12 1000
+param1 = 0.6 param2 = 5 param3 = 13 param4 = 1000 time = 1.87976
+Processed with params: 0.6 5 13 1000
+param1 = 0.6 param2 = 5 param3 = 14 param4 = 1000 time = 1.8309
+Processed with params: 0.6 5 14 1000
+param1 = 0.6 param2 = 5 param3 = 15 param4 = 1000 time = 1.81758
+Processed with params: 0.6 5 15 1000
+param1 = 0.6 param2 = 6 param3 = 3 param4 = 1000 time = 2.35189
+Processed with params: 0.6 6 3 1000
+param1 = 0.6 param2 = 6 param3 = 4 param4 = 1000 time = 2.42882
+Processed with params: 0.6 6 4 1000
+param1 = 0.6 param2 = 6 param3 = 5 param4 = 1000 time = 2.33196
+Processed with params: 0.6 6 5 1000
+param1 = 0.6 param2 = 6 param3 = 6 param4 = 1000 time = 2.26941
+Processed with params: 0.6 6 6 1000
+param1 = 0.6 param2 = 6 param3 = 7 param4 = 1000 time = 2.28689
+Processed with params: 0.6 6 7 1000
+param1 = 0.6 param2 = 6 param3 = 8 param4 = 1000 time = 2.24079
+Processed with params: 0.6 6 8 1000
+param1 = 0.6 param2 = 6 param3 = 9 param4 = 1000 time = 2.27285
+Processed with params: 0.6 6 9 1000
+param1 = 0.6 param2 = 6 param3 = 10 param4 = 1000 time = 2.24795
+Processed with params: 0.6 6 10 1000
+param1 = 0.6 param2 = 6 param3 = 11 param4 = 1000 time = 2.24884
+Processed with params: 0.6 6 11 1000
+param1 = 0.6 param2 = 6 param3 = 12 param4 = 1000 time = 2.19409
+Processed with params: 0.6 6 12 1000
+param1 = 0.6 param2 = 6 param3 = 13 param4 = 1000 time = 2.60614
+Processed with params: 0.6 6 13 1000
+param1 = 0.6 param2 = 6 param3 = 14 param4 = 1000 time = 2.5945
+Processed with params: 0.6 6 14 1000
+param1 = 0.6 param2 = 6 param3 = 15 param4 = 1000 time = 2.18435
+Processed with params: 0.6 6 15 1000
+param1 = 0.6 param2 = 7 param3 = 3 param4 = 1000 time = 4.3069
+Processed with params: 0.6 7 3 1000
+param1 = 0.6 param2 = 7 param3 = 4 param4 = 1000 time = 3.47611
+Processed with params: 0.6 7 4 1000
+param1 = 0.6 param2 = 7 param3 = 5 param4 = 1000 time = 3.00264
+Processed with params: 0.6 7 5 1000
+param1 = 0.6 param2 = 7 param3 = 6 param4 = 1000 time = 4.64433
+Processed with params: 0.6 7 6 1000
+param1 = 0.6 param2 = 7 param3 = 7 param4 = 1000 time = 4.08635
+Processed with params: 0.6 7 7 1000
+param1 = 0.6 param2 = 7 param3 = 8 param4 = 1000 time = 3.06389
+Processed with params: 0.6 7 8 1000
+param1 = 0.6 param2 = 7 param3 = 9 param4 = 1000 time = 4.0103
+Processed with params: 0.6 7 9 1000
+param1 = 0.6 param2 = 7 param3 = 10 param4 = 1000 time = 4.63021
+Processed with params: 0.6 7 10 1000
+param1 = 0.6 param2 = 7 param3 = 11 param4 = 1000 time = 4.08498
+Processed with params: 0.6 7 11 1000
+param1 = 0.6 param2 = 7 param3 = 12 param4 = 1000 time = 4.16736
+Processed with params: 0.6 7 12 1000
+param1 = 0.6 param2 = 7 param3 = 13 param4 = 1000 time = 4.86304
+Processed with params: 0.6 7 13 1000
+param1 = 0.6 param2 = 7 param3 = 14 param4 = 1000 time = 4.22852
+Processed with params: 0.6 7 14 1000
+param1 = 0.6 param2 = 7 param3 = 15 param4 = 1000 time = 4.18158
+Processed with params: 0.6 7 15 1000
+param1 = 0.7 param2 = 1 param3 = 3 param4 = 1000 time = 13.1246
+Processed with params: 0.7 1 3 1000
+param1 = 0.7 param2 = 1 param3 = 4 param4 = 1000 time = 13.0415
+Processed with params: 0.7 1 4 1000
+param1 = 0.7 param2 = 1 param3 = 5 param4 = 1000 time = 12.7913
+Processed with params: 0.7 1 5 1000
+param1 = 0.7 param2 = 1 param3 = 6 param4 = 1000 time = 13.702
+Processed with params: 0.7 1 6 1000
+param1 = 0.7 param2 = 1 param3 = 7 param4 = 1000 time = 13.0348
+Processed with params: 0.7 1 7 1000
+param1 = 0.7 param2 = 1 param3 = 8 param4 = 1000 time = 12.5849
+Processed with params: 0.7 1 8 1000
+param1 = 0.7 param2 = 1 param3 = 9 param4 = 1000 time = 12.9764
+Processed with params: 0.7 1 9 1000
+param1 = 0.7 param2 = 1 param3 = 10 param4 = 1000 time = 12.8681
+Processed with params: 0.7 1 10 1000
+param1 = 0.7 param2 = 1 param3 = 11 param4 = 1000 time = 13.307
+Processed with params: 0.7 1 11 1000
+param1 = 0.7 param2 = 1 param3 = 12 param4 = 1000 time = 12.7776
+Processed with params: 0.7 1 12 1000
+param1 = 0.7 param2 = 1 param3 = 13 param4 = 1000 time = 13.2405
+Processed with params: 0.7 1 13 1000
+param1 = 0.7 param2 = 1 param3 = 14 param4 = 1000 time = 13.1968
+Processed with params: 0.7 1 14 1000
+param1 = 0.7 param2 = 1 param3 = 15 param4 = 1000 time = 13.2658
+Processed with params: 0.7 1 15 1000
+param1 = 0.7 param2 = 2 param3 = 3 param4 = 1000 time = 4.68477
+Processed with params: 0.7 2 3 1000
+param1 = 0.7 param2 = 2 param3 = 4 param4 = 1000 time = 4.66754
+Processed with params: 0.7 2 4 1000
+param1 = 0.7 param2 = 2 param3 = 5 param4 = 1000 time = 4.50048
+Processed with params: 0.7 2 5 1000
+param1 = 0.7 param2 = 2 param3 = 6 param4 = 1000 time = 4.71502
+Processed with params: 0.7 2 6 1000
+param1 = 0.7 param2 = 2 param3 = 7 param4 = 1000 time = 4.61403
+Processed with params: 0.7 2 7 1000
+param1 = 0.7 param2 = 2 param3 = 8 param4 = 1000 time = 4.66361
+Processed with params: 0.7 2 8 1000
+param1 = 0.7 param2 = 2 param3 = 9 param4 = 1000 time = 4.56529
+Processed with params: 0.7 2 9 1000
+param1 = 0.7 param2 = 2 param3 = 10 param4 = 1000 time = 4.45148
+Processed with params: 0.7 2 10 1000
+param1 = 0.7 param2 = 2 param3 = 11 param4 = 1000 time = 4.5286
+Processed with params: 0.7 2 11 1000
+param1 = 0.7 param2 = 2 param3 = 12 param4 = 1000 time = 4.55764
+Processed with params: 0.7 2 12 1000
+param1 = 0.7 param2 = 2 param3 = 13 param4 = 1000 time = 4.46519
+Processed with params: 0.7 2 13 1000
+param1 = 0.7 param2 = 2 param3 = 14 param4 = 1000 time = 4.589
+Processed with params: 0.7 2 14 1000
+param1 = 0.7 param2 = 2 param3 = 15 param4 = 1000 time = 4.55154
+Processed with params: 0.7 2 15 1000
+param1 = 0.7 param2 = 3 param3 = 3 param4 = 1000 time = 2.50199
+Processed with params: 0.7 3 3 1000
+param1 = 0.7 param2 = 3 param3 = 4 param4 = 1000 time = 2.45269
+Processed with params: 0.7 3 4 1000
+param1 = 0.7 param2 = 3 param3 = 5 param4 = 1000 time = 2.47575
+Processed with params: 0.7 3 5 1000
+param1 = 0.7 param2 = 3 param3 = 6 param4 = 1000 time = 2.36544
+Processed with params: 0.7 3 6 1000
+param1 = 0.7 param2 = 3 param3 = 7 param4 = 1000 time = 2.3894
+Processed with params: 0.7 3 7 1000
+param1 = 0.7 param2 = 3 param3 = 8 param4 = 1000 time = 2.33535
+Processed with params: 0.7 3 8 1000
+param1 = 0.7 param2 = 3 param3 = 9 param4 = 1000 time = 2.41963
+Processed with params: 0.7 3 9 1000
+param1 = 0.7 param2 = 3 param3 = 10 param4 = 1000 time = 2.31351
+Processed with params: 0.7 3 10 1000
+param1 = 0.7 param2 = 3 param3 = 11 param4 = 1000 time = 2.29156
+Processed with params: 0.7 3 11 1000
+param1 = 0.7 param2 = 3 param3 = 12 param4 = 1000 time = 2.28928
+Processed with params: 0.7 3 12 1000
+param1 = 0.7 param2 = 3 param3 = 13 param4 = 1000 time = 2.37731
+Processed with params: 0.7 3 13 1000
+param1 = 0.7 param2 = 3 param3 = 14 param4 = 1000 time = 2.39443
+Processed with params: 0.7 3 14 1000
+param1 = 0.7 param2 = 3 param3 = 15 param4 = 1000 time = 2.3192
+Processed with params: 0.7 3 15 1000
+param1 = 0.7 param2 = 4 param3 = 3 param4 = 1000 time = 1.82103
+Processed with params: 0.7 4 3 1000
+param1 = 0.7 param2 = 4 param3 = 4 param4 = 1000 time = 1.83263
+Processed with params: 0.7 4 4 1000
+param1 = 0.7 param2 = 4 param3 = 5 param4 = 1000 time = 1.84278
+Processed with params: 0.7 4 5 1000
+param1 = 0.7 param2 = 4 param3 = 6 param4 = 1000 time = 1.74195
+Processed with params: 0.7 4 6 1000
+param1 = 0.7 param2 = 4 param3 = 7 param4 = 1000 time = 1.75303
+Processed with params: 0.7 4 7 1000
+param1 = 0.7 param2 = 4 param3 = 8 param4 = 1000 time = 1.78633
+Processed with params: 0.7 4 8 1000
+param1 = 0.7 param2 = 4 param3 = 9 param4 = 1000 time = 1.72242
+Processed with params: 0.7 4 9 1000
+param1 = 0.7 param2 = 4 param3 = 10 param4 = 1000 time = 1.69118
+Processed with params: 0.7 4 10 1000
+param1 = 0.7 param2 = 4 param3 = 11 param4 = 1000 time = 1.65626
+Processed with params: 0.7 4 11 1000
+param1 = 0.7 param2 = 4 param3 = 12 param4 = 1000 time = 1.71662
+Processed with params: 0.7 4 12 1000
+param1 = 0.7 param2 = 4 param3 = 13 param4 = 1000 time = 1.63763
+Processed with params: 0.7 4 13 1000
+param1 = 0.7 param2 = 4 param3 = 14 param4 = 1000 time = 1.66358
+Processed with params: 0.7 4 14 1000
+param1 = 0.7 param2 = 4 param3 = 15 param4 = 1000 time = 1.62577
+Processed with params: 0.7 4 15 1000
+param1 = 0.7 param2 = 5 param3 = 3 param4 = 1000 time = 2.10742
+Processed with params: 0.7 5 3 1000
+param1 = 0.7 param2 = 5 param3 = 4 param4 = 1000 time = 2.12765
+Processed with params: 0.7 5 4 1000
+param1 = 0.7 param2 = 5 param3 = 5 param4 = 1000 time = 2.12651
+Processed with params: 0.7 5 5 1000
+param1 = 0.7 param2 = 5 param3 = 6 param4 = 1000 time = 2.00539
+Processed with params: 0.7 5 6 1000
+param1 = 0.7 param2 = 5 param3 = 7 param4 = 1000 time = 1.98358
+Processed with params: 0.7 5 7 1000
+param1 = 0.7 param2 = 5 param3 = 8 param4 = 1000 time = 1.97182
+Processed with params: 0.7 5 8 1000
+param1 = 0.7 param2 = 5 param3 = 9 param4 = 1000 time = 1.95801
+Processed with params: 0.7 5 9 1000
+param1 = 0.7 param2 = 5 param3 = 10 param4 = 1000 time = 1.94657
+Processed with params: 0.7 5 10 1000
+param1 = 0.7 param2 = 5 param3 = 11 param4 = 1000 time = 1.92993
+Processed with params: 0.7 5 11 1000
+param1 = 0.7 param2 = 5 param3 = 12 param4 = 1000 time = 1.89916
+Processed with params: 0.7 5 12 1000
+param1 = 0.7 param2 = 5 param3 = 13 param4 = 1000 time = 1.93757
+Processed with params: 0.7 5 13 1000
+param1 = 0.7 param2 = 5 param3 = 14 param4 = 1000 time = 1.89047
+Processed with params: 0.7 5 14 1000
+param1 = 0.7 param2 = 5 param3 = 15 param4 = 1000 time = 1.91717
+Processed with params: 0.7 5 15 1000
+param1 = 0.7 param2 = 6 param3 = 3 param4 = 1000 time = 2.76973
+Processed with params: 0.7 6 3 1000
+param1 = 0.7 param2 = 6 param3 = 4 param4 = 1000 time = 2.73762
+Processed with params: 0.7 6 4 1000
+param1 = 0.7 param2 = 6 param3 = 5 param4 = 1000 time = 2.68349
+Processed with params: 0.7 6 5 1000
+param1 = 0.7 param2 = 6 param3 = 6 param4 = 1000 time = 2.70606
+Processed with params: 0.7 6 6 1000
+param1 = 0.7 param2 = 6 param3 = 7 param4 = 1000 time = 2.61326
+Processed with params: 0.7 6 7 1000
+param1 = 0.7 param2 = 6 param3 = 8 param4 = 1000 time = 2.63241
+Processed with params: 0.7 6 8 1000
+param1 = 0.7 param2 = 6 param3 = 9 param4 = 1000 time = 2.56474
+Processed with params: 0.7 6 9 1000
+param1 = 0.7 param2 = 6 param3 = 10 param4 = 1000 time = 2.61707
+Processed with params: 0.7 6 10 1000
+param1 = 0.7 param2 = 6 param3 = 11 param4 = 1000 time = 2.64073
+Processed with params: 0.7 6 11 1000
+param1 = 0.7 param2 = 6 param3 = 12 param4 = 1000 time = 2.609
+Processed with params: 0.7 6 12 1000
+param1 = 0.7 param2 = 6 param3 = 13 param4 = 1000 time = 2.55913
+Processed with params: 0.7 6 13 1000
+param1 = 0.7 param2 = 6 param3 = 14 param4 = 1000 time = 2.57433
+Processed with params: 0.7 6 14 1000
+param1 = 0.7 param2 = 6 param3 = 15 param4 = 1000 time = 2.69903
+Processed with params: 0.7 6 15 1000
+param1 = 0.7 param2 = 7 param3 = 3 param4 = 1000 time = 4.5958
+Processed with params: 0.7 7 3 1000
+param1 = 0.7 param2 = 7 param3 = 4 param4 = 1000 time = 5.73566
+Processed with params: 0.7 7 4 1000
+param1 = 0.7 param2 = 7 param3 = 5 param4 = 1000 time = 5.7952
+Processed with params: 0.7 7 5 1000
+param1 = 0.7 param2 = 7 param3 = 6 param4 = 1000 time = 4.73123
+Processed with params: 0.7 7 6 1000
+param1 = 0.7 param2 = 7 param3 = 7 param4 = 1000 time = 4.1485
+Processed with params: 0.7 7 7 1000
+param1 = 0.7 param2 = 7 param3 = 8 param4 = 1000 time = 5.6259
+Processed with params: 0.7 7 8 1000
+param1 = 0.7 param2 = 7 param3 = 9 param4 = 1000 time = 5.43019
+Processed with params: 0.7 7 9 1000
+param1 = 0.7 param2 = 7 param3 = 10 param4 = 1000 time = 6.69782
+Processed with params: 0.7 7 10 1000
+param1 = 0.7 param2 = 7 param3 = 11 param4 = 1000 time = 3.9609
+Processed with params: 0.7 7 11 1000
+param1 = 0.7 param2 = 7 param3 = 12 param4 = 1000 time = 5.59617
+Processed with params: 0.7 7 12 1000
+param1 = 0.7 param2 = 7 param3 = 13 param4 = 1000 time = 4.64818
+Processed with params: 0.7 7 13 1000
+param1 = 0.7 param2 = 7 param3 = 14 param4 = 1000 time = 4.5155
+Processed with params: 0.7 7 14 1000
+param1 = 0.7 param2 = 7 param3 = 15 param4 = 1000 time = 4.79174
+Processed with params: 0.7 7 15 1000
+param1 = 0.8 param2 = 1 param3 = 3 param4 = 1000 time = 13.0378
+Processed with params: 0.8 1 3 1000
+param1 = 0.8 param2 = 1 param3 = 4 param4 = 1000 time = 13.2201
+Processed with params: 0.8 1 4 1000
+param1 = 0.8 param2 = 1 param3 = 5 param4 = 1000 time = 12.7828
+Processed with params: 0.8 1 5 1000
+param1 = 0.8 param2 = 1 param3 = 6 param4 = 1000 time = 13.1371
+Processed with params: 0.8 1 6 1000
+param1 = 0.8 param2 = 1 param3 = 7 param4 = 1000 time = 12.6301
+Processed with params: 0.8 1 7 1000
+param1 = 0.8 param2 = 1 param3 = 8 param4 = 1000 time = 12.5966
+Processed with params: 0.8 1 8 1000
+param1 = 0.8 param2 = 1 param3 = 9 param4 = 1000 time = 12.7458
+Processed with params: 0.8 1 9 1000
+param1 = 0.8 param2 = 1 param3 = 10 param4 = 1000 time = 12.7002
+Processed with params: 0.8 1 10 1000
+param1 = 0.8 param2 = 1 param3 = 11 param4 = 1000 time = 12.9438
+Processed with params: 0.8 1 11 1000
+param1 = 0.8 param2 = 1 param3 = 12 param4 = 1000 time = 12.6877
+Processed with params: 0.8 1 12 1000
+param1 = 0.8 param2 = 1 param3 = 13 param4 = 1000 time = 13.0838
+Processed with params: 0.8 1 13 1000
+param1 = 0.8 param2 = 1 param3 = 14 param4 = 1000 time = 14.0348
+Processed with params: 0.8 1 14 1000
+param1 = 0.8 param2 = 1 param3 = 15 param4 = 1000 time = 13.2264
+Processed with params: 0.8 1 15 1000
+param1 = 0.8 param2 = 2 param3 = 3 param4 = 1000 time = 4.83271
+Processed with params: 0.8 2 3 1000
+param1 = 0.8 param2 = 2 param3 = 4 param4 = 1000 time = 4.72954
+Processed with params: 0.8 2 4 1000
+param1 = 0.8 param2 = 2 param3 = 5 param4 = 1000 time = 4.49738
+Processed with params: 0.8 2 5 1000
+param1 = 0.8 param2 = 2 param3 = 6 param4 = 1000 time = 4.71216
+Processed with params: 0.8 2 6 1000
+param1 = 0.8 param2 = 2 param3 = 7 param4 = 1000 time = 4.74941
+Processed with params: 0.8 2 7 1000
+param1 = 0.8 param2 = 2 param3 = 8 param4 = 1000 time = 4.63544
+Processed with params: 0.8 2 8 1000
+param1 = 0.8 param2 = 2 param3 = 9 param4 = 1000 time = 4.72302
+Processed with params: 0.8 2 9 1000
+param1 = 0.8 param2 = 2 param3 = 10 param4 = 1000 time = 4.61657
+Processed with params: 0.8 2 10 1000
+param1 = 0.8 param2 = 2 param3 = 11 param4 = 1000 time = 4.65298
+Processed with params: 0.8 2 11 1000
+param1 = 0.8 param2 = 2 param3 = 12 param4 = 1000 time = 4.68439
+Processed with params: 0.8 2 12 1000
+param1 = 0.8 param2 = 2 param3 = 13 param4 = 1000 time = 4.51462
+Processed with params: 0.8 2 13 1000
+param1 = 0.8 param2 = 2 param3 = 14 param4 = 1000 time = 4.44645
+Processed with params: 0.8 2 14 1000
+param1 = 0.8 param2 = 2 param3 = 15 param4 = 1000 time = 4.56347
+Processed with params: 0.8 2 15 1000
+param1 = 0.8 param2 = 3 param3 = 3 param4 = 1000 time = 2.57357
+Processed with params: 0.8 3 3 1000
+param1 = 0.8 param2 = 3 param3 = 4 param4 = 1000 time = 2.52771
+Processed with params: 0.8 3 4 1000
+param1 = 0.8 param2 = 3 param3 = 5 param4 = 1000 time = 2.46044
+Processed with params: 0.8 3 5 1000
+param1 = 0.8 param2 = 3 param3 = 6 param4 = 1000 time = 2.42494
+Processed with params: 0.8 3 6 1000
+param1 = 0.8 param2 = 3 param3 = 7 param4 = 1000 time = 2.43201
+Processed with params: 0.8 3 7 1000
+param1 = 0.8 param2 = 3 param3 = 8 param4 = 1000 time = 2.35724
+Processed with params: 0.8 3 8 1000
+param1 = 0.8 param2 = 3 param3 = 9 param4 = 1000 time = 2.37916
+Processed with params: 0.8 3 9 1000
+param1 = 0.8 param2 = 3 param3 = 10 param4 = 1000 time = 2.3718
+Processed with params: 0.8 3 10 1000
+param1 = 0.8 param2 = 3 param3 = 11 param4 = 1000 time = 2.30249
+Processed with params: 0.8 3 11 1000
+param1 = 0.8 param2 = 3 param3 = 12 param4 = 1000 time = 2.36657
+Processed with params: 0.8 3 12 1000
+param1 = 0.8 param2 = 3 param3 = 13 param4 = 1000 time = 2.32176
+Processed with params: 0.8 3 13 1000
+param1 = 0.8 param2 = 3 param3 = 14 param4 = 1000 time = 2.24529
+Processed with params: 0.8 3 14 1000
+param1 = 0.8 param2 = 3 param3 = 15 param4 = 1000 time = 2.28717
+Processed with params: 0.8 3 15 1000
+param1 = 0.8 param2 = 4 param3 = 3 param4 = 1000 time = 1.94611
+Processed with params: 0.8 4 3 1000
+param1 = 0.8 param2 = 4 param3 = 4 param4 = 1000 time = 1.89935
+Processed with params: 0.8 4 4 1000
+param1 = 0.8 param2 = 4 param3 = 5 param4 = 1000 time = 1.78029
+Processed with params: 0.8 4 5 1000
+param1 = 0.8 param2 = 4 param3 = 6 param4 = 1000 time = 1.82619
+Processed with params: 0.8 4 6 1000
+param1 = 0.8 param2 = 4 param3 = 7 param4 = 1000 time = 1.77081
+Processed with params: 0.8 4 7 1000
+param1 = 0.8 param2 = 4 param3 = 8 param4 = 1000 time = 1.81295
+Processed with params: 0.8 4 8 1000
+param1 = 0.8 param2 = 4 param3 = 9 param4 = 1000 time = 1.76825
+Processed with params: 0.8 4 9 1000
+param1 = 0.8 param2 = 4 param3 = 10 param4 = 1000 time = 1.68621
+Processed with params: 0.8 4 10 1000
+param1 = 0.8 param2 = 4 param3 = 11 param4 = 1000 time = 1.69033
+Processed with params: 0.8 4 11 1000
+param1 = 0.8 param2 = 4 param3 = 12 param4 = 1000 time = 1.71832
+Processed with params: 0.8 4 12 1000
+param1 = 0.8 param2 = 4 param3 = 13 param4 = 1000 time = 1.82649
+Processed with params: 0.8 4 13 1000
+param1 = 0.8 param2 = 4 param3 = 14 param4 = 1000 time = 1.73896
+Processed with params: 0.8 4 14 1000
+param1 = 0.8 param2 = 4 param3 = 15 param4 = 1000 time = 1.70866
+Processed with params: 0.8 4 15 1000
+param1 = 0.8 param2 = 5 param3 = 3 param4 = 1000 time = 2.19914
+Processed with params: 0.8 5 3 1000
+param1 = 0.8 param2 = 5 param3 = 4 param4 = 1000 time = 2.20242
+Processed with params: 0.8 5 4 1000
+param1 = 0.8 param2 = 5 param3 = 5 param4 = 1000 time = 2.17002
+Processed with params: 0.8 5 5 1000
+param1 = 0.8 param2 = 5 param3 = 6 param4 = 1000 time = 2.11331
+Processed with params: 0.8 5 6 1000
+param1 = 0.8 param2 = 5 param3 = 7 param4 = 1000 time = 2.10094
+Processed with params: 0.8 5 7 1000
+param1 = 0.8 param2 = 5 param3 = 8 param4 = 1000 time = 2.12077
+Processed with params: 0.8 5 8 1000
+param1 = 0.8 param2 = 5 param3 = 9 param4 = 1000 time = 2.12356
+Processed with params: 0.8 5 9 1000
+param1 = 0.8 param2 = 5 param3 = 10 param4 = 1000 time = 2.07012
+Processed with params: 0.8 5 10 1000
+param1 = 0.8 param2 = 5 param3 = 11 param4 = 1000 time = 2.06543
+Processed with params: 0.8 5 11 1000
+param1 = 0.8 param2 = 5 param3 = 12 param4 = 1000 time = 2.07984
+Processed with params: 0.8 5 12 1000
+param1 = 0.8 param2 = 5 param3 = 13 param4 = 1000 time = 2.07634
+Processed with params: 0.8 5 13 1000
+param1 = 0.8 param2 = 5 param3 = 14 param4 = 1000 time = 2.07677
+Processed with params: 0.8 5 14 1000
+param1 = 0.8 param2 = 5 param3 = 15 param4 = 1000 time = 2.0224
+Processed with params: 0.8 5 15 1000
+param1 = 0.8 param2 = 6 param3 = 3 param4 = 1000 time = 3.18342
+Processed with params: 0.8 6 3 1000
+param1 = 0.8 param2 = 6 param3 = 4 param4 = 1000 time = 3.16777
+Processed with params: 0.8 6 4 1000
+param1 = 0.8 param2 = 6 param3 = 5 param4 = 1000 time = 3.0523
+Processed with params: 0.8 6 5 1000
+param1 = 0.8 param2 = 6 param3 = 6 param4 = 1000 time = 2.94135
+Processed with params: 0.8 6 6 1000
+param1 = 0.8 param2 = 6 param3 = 7 param4 = 1000 time = 2.92037
+Processed with params: 0.8 6 7 1000
+param1 = 0.8 param2 = 6 param3 = 8 param4 = 1000 time = 2.91614
+Processed with params: 0.8 6 8 1000
+param1 = 0.8 param2 = 6 param3 = 9 param4 = 1000 time = 2.95007
+Processed with params: 0.8 6 9 1000
+param1 = 0.8 param2 = 6 param3 = 10 param4 = 1000 time = 2.95069
+Processed with params: 0.8 6 10 1000
+param1 = 0.8 param2 = 6 param3 = 11 param4 = 1000 time = 2.85924
+Processed with params: 0.8 6 11 1000
+param1 = 0.8 param2 = 6 param3 = 12 param4 = 1000 time = 2.92784
+Processed with params: 0.8 6 12 1000
+param1 = 0.8 param2 = 6 param3 = 13 param4 = 1000 time = 2.84611
+Processed with params: 0.8 6 13 1000
+param1 = 0.8 param2 = 6 param3 = 14 param4 = 1000 time = 2.91963
+Processed with params: 0.8 6 14 1000
+param1 = 0.8 param2 = 6 param3 = 15 param4 = 1000 time = 2.90475
+Processed with params: 0.8 6 15 1000
+param1 = 0.8 param2 = 7 param3 = 3 param4 = 1000 time = 6.0142
+Processed with params: 0.8 7 3 1000
+param1 = 0.8 param2 = 7 param3 = 4 param4 = 1000 time = 8.2866
+Processed with params: 0.8 7 4 1000
+param1 = 0.8 param2 = 7 param3 = 5 param4 = 1000 time = 7.14343
+Processed with params: 0.8 7 5 1000
+param1 = 0.8 param2 = 7 param3 = 6 param4 = 1000 time = 5.31256
+Processed with params: 0.8 7 6 1000
+param1 = 0.8 param2 = 7 param3 = 7 param4 = 1000 time = 5.43025
+Processed with params: 0.8 7 7 1000
+param1 = 0.8 param2 = 7 param3 = 8 param4 = 1000 time = 5.63473
+Processed with params: 0.8 7 8 1000
+param1 = 0.8 param2 = 7 param3 = 9 param4 = 1000 time = 7.07181
+Processed with params: 0.8 7 9 1000
+param1 = 0.8 param2 = 7 param3 = 10 param4 = 1000 time = 7.47964
+Processed with params: 0.8 7 10 1000
+param1 = 0.8 param2 = 7 param3 = 11 param4 = 1000 time = 6.2584
+Processed with params: 0.8 7 11 1000
+param1 = 0.8 param2 = 7 param3 = 12 param4 = 1000 time = 5.32572
+Processed with params: 0.8 7 12 1000
+param1 = 0.8 param2 = 7 param3 = 13 param4 = 1000 time = 5.89179
+Processed with params: 0.8 7 13 1000
+param1 = 0.8 param2 = 7 param3 = 14 param4 = 1000 time = 6.12686
+Processed with params: 0.8 7 14 1000
+param1 = 0.8 param2 = 7 param3 = 15 param4 = 1000 time = 6.94206
+Processed with params: 0.8 7 15 1000
+param1 = 0.9 param2 = 1 param3 = 3 param4 = 1000 time = 13.8174
+Processed with params: 0.9 1 3 1000
+param1 = 0.9 param2 = 1 param3 = 4 param4 = 1000 time = 13.1767
+Processed with params: 0.9 1 4 1000
+param1 = 0.9 param2 = 1 param3 = 5 param4 = 1000 time = 12.8056
+Processed with params: 0.9 1 5 1000
+param1 = 0.9 param2 = 1 param3 = 6 param4 = 1000 time = 12.9843
+Processed with params: 0.9 1 6 1000
+param1 = 0.9 param2 = 1 param3 = 7 param4 = 1000 time = 12.5761
+Processed with params: 0.9 1 7 1000
+param1 = 0.9 param2 = 1 param3 = 8 param4 = 1000 time = 12.6287
+Processed with params: 0.9 1 8 1000
+param1 = 0.9 param2 = 1 param3 = 9 param4 = 1000 time = 12.9782
+Processed with params: 0.9 1 9 1000
+param1 = 0.9 param2 = 1 param3 = 10 param4 = 1000 time = 13.1186
+Processed with params: 0.9 1 10 1000
+param1 = 0.9 param2 = 1 param3 = 11 param4 = 1000 time = 13.039
+Processed with params: 0.9 1 11 1000
+param1 = 0.9 param2 = 1 param3 = 12 param4 = 1000 time = 13.2608
+Processed with params: 0.9 1 12 1000
+param1 = 0.9 param2 = 1 param3 = 13 param4 = 1000 time = 14.7285
+Processed with params: 0.9 1 13 1000
+param1 = 0.9 param2 = 1 param3 = 14 param4 = 1000 time = 13.1339
+Processed with params: 0.9 1 14 1000
+param1 = 0.9 param2 = 1 param3 = 15 param4 = 1000 time = 12.9635
+Processed with params: 0.9 1 15 1000
+param1 = 0.9 param2 = 2 param3 = 3 param4 = 1000 time = 4.74961
+Processed with params: 0.9 2 3 1000
+param1 = 0.9 param2 = 2 param3 = 4 param4 = 1000 time = 4.68612
+Processed with params: 0.9 2 4 1000
+param1 = 0.9 param2 = 2 param3 = 5 param4 = 1000 time = 4.44748
+Processed with params: 0.9 2 5 1000
+param1 = 0.9 param2 = 2 param3 = 6 param4 = 1000 time = 4.75021
+Processed with params: 0.9 2 6 1000
+param1 = 0.9 param2 = 2 param3 = 7 param4 = 1000 time = 4.70052
+Processed with params: 0.9 2 7 1000
+param1 = 0.9 param2 = 2 param3 = 8 param4 = 1000 time = 4.81355
+Processed with params: 0.9 2 8 1000
+param1 = 0.9 param2 = 2 param3 = 9 param4 = 1000 time = 4.59413
+Processed with params: 0.9 2 9 1000
+param1 = 0.9 param2 = 2 param3 = 10 param4 = 1000 time = 4.73621
+Processed with params: 0.9 2 10 1000
+param1 = 0.9 param2 = 2 param3 = 11 param4 = 1000 time = 4.5318
+Processed with params: 0.9 2 11 1000
+param1 = 0.9 param2 = 2 param3 = 12 param4 = 1000 time = 4.46121
+Processed with params: 0.9 2 12 1000
+param1 = 0.9 param2 = 2 param3 = 13 param4 = 1000 time = 4.5634
+Processed with params: 0.9 2 13 1000
+param1 = 0.9 param2 = 2 param3 = 14 param4 = 1000 time = 4.59589
+Processed with params: 0.9 2 14 1000
+param1 = 0.9 param2 = 2 param3 = 15 param4 = 1000 time = 4.47536
+Processed with params: 0.9 2 15 1000
+param1 = 0.9 param2 = 3 param3 = 3 param4 = 1000 time = 2.49245
+Processed with params: 0.9 3 3 1000
+param1 = 0.9 param2 = 3 param3 = 4 param4 = 1000 time = 2.50913
+Processed with params: 0.9 3 4 1000
+param1 = 0.9 param2 = 3 param3 = 5 param4 = 1000 time = 2.48879
+Processed with params: 0.9 3 5 1000
+param1 = 0.9 param2 = 3 param3 = 6 param4 = 1000 time = 2.44659
+Processed with params: 0.9 3 6 1000
+param1 = 0.9 param2 = 3 param3 = 7 param4 = 1000 time = 2.47067
+Processed with params: 0.9 3 7 1000
+param1 = 0.9 param2 = 3 param3 = 8 param4 = 1000 time = 2.41417
+Processed with params: 0.9 3 8 1000
+param1 = 0.9 param2 = 3 param3 = 9 param4 = 1000 time = 2.42364
+Processed with params: 0.9 3 9 1000
+param1 = 0.9 param2 = 3 param3 = 10 param4 = 1000 time = 2.39823
+Processed with params: 0.9 3 10 1000
+param1 = 0.9 param2 = 3 param3 = 11 param4 = 1000 time = 2.35601
+Processed with params: 0.9 3 11 1000
+param1 = 0.9 param2 = 3 param3 = 12 param4 = 1000 time = 2.29332
+Processed with params: 0.9 3 12 1000
+param1 = 0.9 param2 = 3 param3 = 13 param4 = 1000 time = 2.249
+Processed with params: 0.9 3 13 1000
+param1 = 0.9 param2 = 3 param3 = 14 param4 = 1000 time = 2.30481
+Processed with params: 0.9 3 14 1000
+param1 = 0.9 param2 = 3 param3 = 15 param4 = 1000 time = 2.28104
+Processed with params: 0.9 3 15 1000
+param1 = 0.9 param2 = 4 param3 = 3 param4 = 1000 time = 1.8644
+Processed with params: 0.9 4 3 1000
+param1 = 0.9 param2 = 4 param3 = 4 param4 = 1000 time = 1.87375
+Processed with params: 0.9 4 4 1000
+param1 = 0.9 param2 = 4 param3 = 5 param4 = 1000 time = 1.86018
+Processed with params: 0.9 4 5 1000
+param1 = 0.9 param2 = 4 param3 = 6 param4 = 1000 time = 1.76964
+Processed with params: 0.9 4 6 1000
+param1 = 0.9 param2 = 4 param3 = 7 param4 = 1000 time = 1.79448
+Processed with params: 0.9 4 7 1000
+param1 = 0.9 param2 = 4 param3 = 8 param4 = 1000 time = 1.75261
+Processed with params: 0.9 4 8 1000
+param1 = 0.9 param2 = 4 param3 = 9 param4 = 1000 time = 1.70605
+Processed with params: 0.9 4 9 1000
+param1 = 0.9 param2 = 4 param3 = 10 param4 = 1000 time = 1.70909
+Processed with params: 0.9 4 10 1000
+param1 = 0.9 param2 = 4 param3 = 11 param4 = 1000 time = 1.68325
+Processed with params: 0.9 4 11 1000
+param1 = 0.9 param2 = 4 param3 = 12 param4 = 1000 time = 1.7145
+Processed with params: 0.9 4 12 1000
+param1 = 0.9 param2 = 4 param3 = 13 param4 = 1000 time = 1.68067
+Processed with params: 0.9 4 13 1000
+param1 = 0.9 param2 = 4 param3 = 14 param4 = 1000 time = 1.73533
+Processed with params: 0.9 4 14 1000
+param1 = 0.9 param2 = 4 param3 = 15 param4 = 1000 time = 1.70397
+Processed with params: 0.9 4 15 1000
+param1 = 0.9 param2 = 5 param3 = 3 param4 = 1000 time = 2.39988
+Processed with params: 0.9 5 3 1000
+param1 = 0.9 param2 = 5 param3 = 4 param4 = 1000 time = 2.23726
+Processed with params: 0.9 5 4 1000
+param1 = 0.9 param2 = 5 param3 = 5 param4 = 1000 time = 2.25675
+Processed with params: 0.9 5 5 1000
+param1 = 0.9 param2 = 5 param3 = 6 param4 = 1000 time = 2.24476
+Processed with params: 0.9 5 6 1000
+param1 = 0.9 param2 = 5 param3 = 7 param4 = 1000 time = 2.24086
+Processed with params: 0.9 5 7 1000
+param1 = 0.9 param2 = 5 param3 = 8 param4 = 1000 time = 2.19934
+Processed with params: 0.9 5 8 1000
+param1 = 0.9 param2 = 5 param3 = 9 param4 = 1000 time = 2.17008
+Processed with params: 0.9 5 9 1000
+param1 = 0.9 param2 = 5 param3 = 10 param4 = 1000 time = 2.14053
+Processed with params: 0.9 5 10 1000
+param1 = 0.9 param2 = 5 param3 = 11 param4 = 1000 time = 2.0444
+Processed with params: 0.9 5 11 1000
+param1 = 0.9 param2 = 5 param3 = 12 param4 = 1000 time = 2.11463
+Processed with params: 0.9 5 12 1000
+param1 = 0.9 param2 = 5 param3 = 13 param4 = 1000 time = 2.03377
+Processed with params: 0.9 5 13 1000
+param1 = 0.9 param2 = 5 param3 = 14 param4 = 1000 time = 2.00713
+Processed with params: 0.9 5 14 1000
+param1 = 0.9 param2 = 5 param3 = 15 param4 = 1000 time = 2.15716
+Processed with params: 0.9 5 15 1000
+param1 = 0.9 param2 = 6 param3 = 3 param4 = 1000 time = 3.36836
+Processed with params: 0.9 6 3 1000
+param1 = 0.9 param2 = 6 param3 = 4 param4 = 1000 time = 3.36654
+Processed with params: 0.9 6 4 1000
+param1 = 0.9 param2 = 6 param3 = 5 param4 = 1000 time = 3.33446
+Processed with params: 0.9 6 5 1000
+param1 = 0.9 param2 = 6 param3 = 6 param4 = 1000 time = 3.26307
+Processed with params: 0.9 6 6 1000
+param1 = 0.9 param2 = 6 param3 = 7 param4 = 1000 time = 3.17516
+Processed with params: 0.9 6 7 1000
+param1 = 0.9 param2 = 6 param3 = 8 param4 = 1000 time = 3.20952
+Processed with params: 0.9 6 8 1000
+param1 = 0.9 param2 = 6 param3 = 9 param4 = 1000 time = 3.2204
+Processed with params: 0.9 6 9 1000
+param1 = 0.9 param2 = 6 param3 = 10 param4 = 1000 time = 3.22227
+Processed with params: 0.9 6 10 1000
+param1 = 0.9 param2 = 6 param3 = 11 param4 = 1000 time = 3.11733
+Processed with params: 0.9 6 11 1000
+param1 = 0.9 param2 = 6 param3 = 12 param4 = 1000 time = 3.19964
+Processed with params: 0.9 6 12 1000
+param1 = 0.9 param2 = 6 param3 = 13 param4 = 1000 time = 3.17711
+Processed with params: 0.9 6 13 1000
+param1 = 0.9 param2 = 6 param3 = 14 param4 = 1000 time = 3.1727
+Processed with params: 0.9 6 14 1000
+param1 = 0.9 param2 = 6 param3 = 15 param4 = 1000 time = 3.30971
+Processed with params: 0.9 6 15 1000
+param1 = 0.9 param2 = 7 param3 = 3 param4 = 1000 time = 7.05997
+Processed with params: 0.9 7 3 1000
+param1 = 0.9 param2 = 7 param3 = 4 param4 = 1000 time = 6.91816
+Processed with params: 0.9 7 4 1000
+param1 = 0.9 param2 = 7 param3 = 5 param4 = 1000 time = 6.6245
+Processed with params: 0.9 7 5 1000
+param1 = 0.9 param2 = 7 param3 = 6 param4 = 1000 time = 7.01959
+Processed with params: 0.9 7 6 1000
+param1 = 0.9 param2 = 7 param3 = 7 param4 = 1000 time = 6.7773
+Processed with params: 0.9 7 7 1000
+param1 = 0.9 param2 = 7 param3 = 8 param4 = 1000 time = 8.44628
+Processed with params: 0.9 7 8 1000
+param1 = 0.9 param2 = 7 param3 = 9 param4 = 1000 time = 9.59151
+Processed with params: 0.9 7 9 1000
+param1 = 0.9 param2 = 7 param3 = 10 param4 = 1000 time = 6.45938
+Processed with params: 0.9 7 10 1000
+param1 = 0.9 param2 = 7 param3 = 11 param4 = 1000 time = 6.63039
+Processed with params: 0.9 7 11 1000
+param1 = 0.9 param2 = 7 param3 = 12 param4 = 1000 time = 6.78774
+Processed with params: 0.9 7 12 1000
+param1 = 0.9 param2 = 7 param3 = 13 param4 = 1000 time = 6.75735
+Processed with params: 0.9 7 13 1000
+param1 = 0.9 param2 = 7 param3 = 14 param4 = 1000 time = 8.33273
+Processed with params: 0.9 7 14 1000
+param1 = 0.9 param2 = 7 param3 = 15 param4 = 1000 time = 6.83671
+Processed with params: 0.9 7 15 1000
+All tasks completed. Results are saved in output_results.txt.

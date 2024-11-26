@@ -1,5 +1,9 @@
 # VT-tree
 
+## How to Compile
+
+Run the `make` command in each directory to generate the executable file.
+
 ## How to Run
 
 Execute the `test.sh` script in each directory.
